@@ -13,4 +13,4 @@ Site published at https://front-end-by-rimantas.github.io/12-grupe-portfolio-mar
 Design: [Martin template](http://inventheme.com/themeforest/martin/)
 
 ### Authors
-[Gytis](https://github.com/belauzas), [Lina](https://github.com/belauzas), [Viktor](https://github.com/belauzas)
+[Gytis](https://github.com/belauzas), [Lina](https://github.com/linaLeinartaite), [Viktor](https://github.com/belauzas)
